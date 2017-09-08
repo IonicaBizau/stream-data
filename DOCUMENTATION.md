@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Collect the stream data and send it into a callback function.
 
 #### Params
+
 - **Stream** `str`: The stream object.
 - **Function** `cb`: The callback function.
 
